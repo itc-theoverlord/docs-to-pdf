@@ -1,0 +1,9 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+/.metadata
+
+/docs-to-pdf-converter/bin
